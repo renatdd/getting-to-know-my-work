@@ -14,12 +14,13 @@ I'm really glad you're interested in knowing more about my work as a software de
 ### **Trybe's Full Stack Web Development Course**
 
 Between November 2020 and November 2021, I took [Trybe's Full Stack Web Development](#about-trybes-fullstack-web-development-course) course and developed 44 projects throughout it as content learning assessments. You can check them out in the following repos:  
- * **[Web Development Fundamentals (JavaScript)](https://github.com/pythaqua/trybe-javascript)**
- * **[Front-End Development (React)](https://github.com/pythaqua/trybe-react)**
- * **Back-End Development**
+ * **[Web Development Fundamentals Module (JavaScript)](https://github.com/pythaqua/trybe-javascript)**
+ * **[Front-End Development Module (React)](https://github.com/pythaqua/trybe-react)**
+ * **Back-End Development Module**
     * **[MySQL](https://github.com/pythaqua/trybe-mysql)**
     * **[MongoDB](https://github.com/pythaqua/trybe-mongodb)**
     * **[Node / Express](https://github.com/pythaqua/trybe-node-express)**
+ * **Computer Science Module (Python)**
 
 ## Some notes
 ### About Trybe's Fullstack Web Development course
