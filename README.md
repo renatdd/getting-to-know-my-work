@@ -9,8 +9,6 @@ I'm really glad you're interested in knowing more about my work as a software de
   ![Twitter](https://img.shields.io/badge/@pythaqua-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 </a>
 
----
-
 ## My repositories
 
 ### **Trybe's Full Stack Web Development Course**
@@ -23,8 +21,7 @@ Between November 2020 and November 2021, I took [Trybe's Full Stack Web Developm
     * **[MongoDB](https://github.com/pythaqua/trybe-mongodb)**
     * **[Node / Express](https://github.com/pythaqua/trybe-node-express)**
 
----
-
-## About Trybe's Fullstack Web Development course
+## Some notes
+### About Trybe's Fullstack Web Development course
 
 [Trybe](https://www.betrybe.com/) is a web development school that has a genuine commitment to the professional success of its students. Its Full Stack Web Development course has a training load of over 1500 hours covering technical contents, practical exercises, live classes, individual and team projects besides soft skills approach. Trybe school invests all the necessary resources so people can learn the technical skills of a software developer in practice, working on real challenge projects and expanding their soft skills, connecting them to job opportunities and assisting in hiring processes. 
